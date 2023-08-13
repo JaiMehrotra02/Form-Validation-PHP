@@ -1,0 +1,36 @@
+.main{
+    /* background-color: rgb(153, 153, 194); */
+    align-items: center;
+    width: 40%;
+    margin: auto;
+    margin-top: 10%;
+    border: 2px solid purple;
+    padding: 10px;
+}
+
+input{
+    float: right;
+    width: 70%;
+}
+label{
+    width: 200px;
+}
+textarea{
+    float: right;
+    width: 70%;
+}
+
+.btn{
+    cursor: pointer;
+    margin: 20px 10%;
+    background-color: peru;
+    border: none;
+    border-radius: 3px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: 700;
+    color: white;
+}
+.main .h2{
+    text-align: center;
+}
