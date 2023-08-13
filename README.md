@@ -46,3 +46,6 @@ Step3: HIT ENTER!!
 - Validation done on Backend
 - Data saved in MariaDb Database
 - Email notification sent upon successful submission
+
+  ##NOTE
+  A Warning will be displayed under the msg you can ignore it. And proceed further.
