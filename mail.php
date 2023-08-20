@@ -26,7 +26,7 @@ if (empty($_POST['Name'])) {
     echo $errMsg;
 } else {
     $name = $_POST['Name'];
-    if (!preg_match('/^[a-zA-z]*$/', $name)) {
+    if (!preg_match('/^[a-zA-z ]*$/', $name)) {
         $ErrMsg = 'Only alphabets and whitespace are allowed.';
         echo $ErrMsg;
     } else {
